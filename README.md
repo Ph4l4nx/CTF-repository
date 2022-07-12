@@ -1,4 +1,4 @@
-# CTF-repository
+# CTF Challenges
 
 1. Stego Challenge:
 
